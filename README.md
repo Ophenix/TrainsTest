@@ -1,7 +1,5 @@
 # TrainsTest
 
-See project, mainly for Gabe (gabe@weebid.app)
-
 Notes:
 Project took aprox 8 hours to complete.
 All tasks complete, though the design is lacking :D
